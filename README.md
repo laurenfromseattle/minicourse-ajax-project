@@ -8,9 +8,9 @@ In addition, a list of New York Times articles and a list of relevant Wikipedia 
 
 ##Instructions
 
-The app can be accessed here: [Your Moving Companion](https://github.com/laurenfromseattle/minicourse-ajax-project)
+The app can be accessed here: [Your Moving Companion](http://laurenfromseattle.github.io/minicourse-ajax-project/)
 
-##Skills Demonstrated in Project
+##Project Tools
 * AJAX
 * JSON/JSONP
 * Google Street View API
