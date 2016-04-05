@@ -43,3 +43,7 @@ body {background-color: #CCC;}
 .article:first-child {
     border-top:none;
 }
+
+.hide-byline {
+    display:non;e
+}
